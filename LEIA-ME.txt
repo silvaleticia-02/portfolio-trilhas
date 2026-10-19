@@ -1,5 +1,0 @@
-Copie os cinco arquivos HTML e CSS para a pasta original do seu portfólio.
-Mantenha as pastas img/, icons/ e certificados/ onde já estão.
-Os arquivos de imagem NÃO estão incluídos neste ZIP.
-Nomes próprios do HTML/CSS, como class, href, width e display, permanecem em inglês porque fazem parte da linguagem.
-Ajuste técnico: .redes-sociais svg foi alterado para .redes-sociais img, pois os ícones são imagens externas.
